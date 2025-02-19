@@ -8,8 +8,12 @@ Project Structure:
 - `.gitignore`: File specifying which files and directories to ignore in the repository.
 
 Dataset:
-I got the dataset from kaggle
-link to dataset: https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running
+
+Dataset is from kaggle
+
+-`TWO_CENTURIES_OF_UM_RACES`: Link to dataset: https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running
+
+Getting Started:
 
 1. Clone the repository:
    ```sh
